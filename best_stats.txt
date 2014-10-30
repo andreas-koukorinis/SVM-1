@@ -1,0 +1,49 @@
+Current best accuracy: 0.282051282051
+Features: (0,)
+Cost: 128.0
+Gamma: 32.0
+Lookahead: 1
+
+
+Current best accuracy: 0.466666666667
+Features: (0,)
+Cost: 128.0
+Gamma: 8.0
+Lookahead: 4
+
+
+Current best accuracy: 0.507692307692
+Features: (1,)
+Cost: 128.0
+Gamma: 32.0
+Lookahead: 2
+
+
+Current best accuracy: 0.566666666667
+Features: (2,)
+Cost: 128.0
+Gamma: 128.0
+Lookahead: 3
+
+
+Current best accuracy: 0.6
+Features: (0, 11)
+Cost: 128.0
+Gamma: 8.0
+Lookahead: 4
+
+
+Current best accuracy: 0.620689655172
+Features: (1, 14)
+Cost: 32.0
+Gamma: 16.0
+Lookahead: 3
+
+
+Current best accuracy: 0.692307692308
+Features: (0, 3, 11)
+Cost: 128.0
+Gamma: 1.0
+Lookahead: 4
+
+
